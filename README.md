@@ -1,5 +1,5 @@
 # PyQt5ImageProccessing
-PyQt5 library to implement image processing 
-Install Python 3.7
-pip install -r requirement.txt
-python run.py
+PyQt5 library to implement image processing.</br>
+Install Python 3.7.</br>
+pip install -r requirement.txt.</br>
+python run.py.</br>
